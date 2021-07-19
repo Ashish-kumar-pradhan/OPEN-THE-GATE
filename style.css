@@ -3,6 +3,6 @@
     margin-top: 3vh;
 }
 
-.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
-    background-color: #f0f0f000 !important;
+.btn-primary {
+    background-color: #000000 !important;
 }
